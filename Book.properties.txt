@@ -1,0 +1,3 @@
+UN  admin
+PWD manager
+Browser chrome

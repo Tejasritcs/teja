@@ -1,0 +1,22 @@
+<suite name ="suite1"> 
+	
+	<test name = "test1">
+		
+		<groups>
+			
+			<run>
+				<exclude name="even"></exclude>
+			</run>
+			
+		</groups>
+		
+		<classes>
+			<class name="TestNgbasics.Simple1"></class>
+			<class name="TestNgbasics.Simple2"></class>
+			<class name="TestNgbasics.Simple3"></class>
+			
+		</classes>
+		
+	</test>
+	
+</suite>
