@@ -16,5 +16,6 @@ public class D {
 	public void demo1() {
 		Assert.fail();
 		Reporter.log("tej",true);
+		System.out.println("hey tej");
 	}
 }
